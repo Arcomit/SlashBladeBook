@@ -1,0 +1,26 @@
+{
+"plugins":["expandable-chapters","-sharing", "sharing-plus","popup","pageview-count"],
+    "pluginsConfig": {
+        "sharing": {
+             "douban": false,
+             "facebook": false,
+             "google": true,
+             "pocket": false,
+             "qq": false,
+             "qzone": true,
+             "twitter": false,
+             "weibo": true,
+          "all": [
+               "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+               "messenger","qq", "qzone","viber","whatsapp"
+           ]
+       }
+    },
+"title":"SlashBlade",
+"author":"Arcomit",
+"links" : {
+    "sidebar" : {
+        "SlashBlade贴吧" : "https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%8B%94%E5%88%80%E5%89%91"
+    }
+}
+}
